@@ -8,14 +8,11 @@
 -- }
 
 return {
-  "ribru17/bamboo.nvim",
-  name = "bamboo",
-  lazy = false,
-  priority = 1000,
+  "sainnhe/gruvbox-material",
   config = function()
-    require("bamboo").setup({
-      -- optional configuration here
-    })
-    require("bamboo").load()
+    vim.g.gruvbox_material_background = "hard"
+    vim.g.gruvbox_material_foreground = "material"
+    vim.g.gruvbox_material_palette = "original"
+    vim.g.gruvbox_material_better_performance = 1
   end,
 }
