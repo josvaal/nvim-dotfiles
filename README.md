@@ -4,4 +4,7 @@ A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
 Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
 
 # Preview
-![](https://asciinema.org/a/rH44os46QnG6mtH85bmV8m8hq)
+![preview](./assets/preview.gif)
+
+# Aditional
+- [Alacritty config](https://gist.github.com/josvaal/6755094bd829e45b0239216dd8f655df)
