@@ -167,6 +167,7 @@ return {
         "shellcheck",
         "shfmt",
         "flake8",
+        "ktlint",
       },
     },
   },
